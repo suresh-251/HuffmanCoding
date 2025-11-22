@@ -1,0 +1,14 @@
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\bin\Debug\net10.0\HuffmanCoding.exe
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\bin\Debug\net10.0\HuffmanCoding.deps.json
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\bin\Debug\net10.0\HuffmanCoding.runtimeconfig.json
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\bin\Debug\net10.0\HuffmanCoding.dll
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\bin\Debug\net10.0\HuffmanCoding.pdb
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\HuffmanCoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\HuffmanCoding.AssemblyInfoInputs.cache
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\HuffmanCoding.AssemblyInfo.cs
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\HuffmanCoding.csproj.CoreCompileInputs.cache
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\HuffmanCoding.dll
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\refint\HuffmanCoding.dll
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\HuffmanCoding.pdb
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\HuffmanCoding.genruntimeconfig.cache
+D:\Suresh_Vaddeman\HuffmanCoding\HuffmanCoding\obj\Debug\net10.0\ref\HuffmanCoding.dll
